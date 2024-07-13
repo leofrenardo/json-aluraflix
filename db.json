@@ -1,0 +1,112 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "Linkin Park",
+            "category": "NU METAL",
+            "photo": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/c/b/69cb4983159e2b9ece127fa43d30fede.jpg",
+            "link": "https://www.youtube.com/embed/eVTXPUF4Oz4",
+            "description": "Linkin Park se formó en 1996 cuando Mike Shinoda y Brad Delson grabaron material bajo el nombre de Hybrid Theory. Reclutaron a más miembros y cambiaron su nombre a Xero y luego a Hybrid Theory. Contrataron a Chester Bennington como vocalista en 1999. Cambiaron su nombre a Linkin Park y lanzaron su álbum debut Hybrid Theory en 2000, vendiendo más de 10 millones de copias.",
+            "fav": true
+        },
+        {
+            "id": 2,
+            "title": "Korn",
+            "category": "NU METAL",
+            "photo": "https://summainferno.com/wp-content/uploads/2019/09/Korn-1920x1219.jpg",
+            "link": "https://www.youtube.com/embed/2s3iGpDqQpQ",
+            "description": "Korn (estilizado KoЯn) es una banda estadounidense de nu metal de Bakersfield, California, Estados Unidos, formada en 1993. Son considerados los pioneros del género nu metal junto con Deftones. Como otras bandas de la época, fueron los que inspiraron a muchas de las bandas de nu metal y metal alternativo entre los años 90 y comienzos del 2000.",
+            "fav": false
+		},
+        {
+            "id": 3,
+            "title": "Limp Bizkit",
+            "category": "NU METAL",
+            "photo": "https://i.redd.it/nebrv1buutoa1.jpg",
+            "link": "https://www.youtube.com/embed/ZpUYjpKg9KY",
+            "description": "Limp Bizkit es una banda estadounidense de nu metal y rap metal formada en la ciudad de Jacksonville, Florida, en 1994. Sus creadores fueron el líder y vocalista Fred Durst y el bajista Sam Rivers. Posteriormente se unirían el primo de Rivers John Otto como baterista, y el guitarrista Wes Borland. Un tiempo después se unió el exmiembro de House of Pain DJ Lethal, completando la formación. La banda ha vendido hasta la fecha más de 40 millones de copias en todo el mundo.",
+            "fav": true
+        },
+        {
+            "id": 4,
+            "title": "Metallica",
+            "category": "HEAVY METAL",
+            "photo": "https://solamenterockymetal.cl/wp-content/uploads/2023/12/metallica.jpg",
+            "link": "https://www.youtube.com/embed/boanuwUMNNQ",
+            "description":"Metallica es una banda de trash metal, un género musical caracterizado por rápidos cortes de guitarra y una percusión acelerada, y uno de los grupos más populares de la historia gracias a su particular ejecución tanto vocal como instrumental. Lars Ulrich, James Hetfield, Cliff Burton y Kirk Hammet.",
+            "fav": true
+        },
+        {
+            "id": 5,
+            "title": "Iron Maiden",
+            "category": "HEAVY METAL",
+            "photo":  "https://indiehoy.com/wp-content/uploads/2022/05/iron-maiden.jpg",
+            "link": "https://www.youtube.com/embed/X4bgXH3sJ2Q",
+            "description": "Iron Maiden es una banda icónica del heavy metal británico fundada en 1975 por Steve Harris. Han vendido más de 100 millones de copias en todo el mundo y su historia se divide en diferentes momentos, desde sus primeros álbumes hasta la actualidad. La banda ha tenido una influencia muy importante en la Historia del Rock y del Heavy Metal y su mascota, Eddie se ha convertido en todo un icono.",
+            "fav": false
+        },
+        {
+            "id": 6,
+            "title": "Stratovarius",
+            "category": "HEAVY METAL",
+            "photo": "https://cdns-images.dzcdn.net/images/artist/1c42922d3e6aa9214df4b528074298c9/500x500.jpg",
+            "link": "https://www.youtube.com/embed/9-4Gm6VG4O0",
+            "description": "Stratovarius es una banda finlandesa de power metal fundada en 1984 en Helsinki. Su estilo es el power metal melódico, mezcla del power metal clásico con melodías y solos inspirados en la música clásica. Es una de las pioneras del power metal y el metal sinfónico y melódico.",
+            "fav": true
+        },
+        {
+            "id": 7,
+            "title": "Eminem",
+            "category": "HIP-HOP",
+            "photo": "https://yougakumap.com/wp-content/uploads/eminem-houdini-mv-1.jpg",
+            "link": "https://www.youtube.com/embed/YVkUvmDQ3HY",
+            "description": "Marshall Bruce Mathers III, conocido como Eminem, es un rapero, productor y actor estadounidense. Se le atribuye la popularización del hip hop en las clases medias y altas de Estados Unidos y es aclamado por la crítica como uno de los mejores raperos de todos los tiempos.",
+            "fav": true
+        },
+        {
+            "id": 8,
+            "title": "Drake",
+            "category": "HIP-HOP",
+            "photo": "https://www.ecured.cu/images/d/dd/Drake_premiacion.jpg",
+            "link": "https://www.youtube.com/embed/uxpDa-c-4Mc",
+            "description":"Drake, originalmente conocido como Aubrey Drake Graham, es un rapero, cantante y actor canadiense de Toronto, famoso por sus pegajosas melodías y su profunda influencia en el hip-hop moderno. Su combinación de rock y pop ha logrado ventas millonarias en todo el mundo.",
+            "fav": false
+        },
+        {
+            "id": 9,
+            "title": "Snoop Dogg",
+            "category": "HIP-HOP",
+            "photo": "https://cdn.justjared.com/wp-content/uploads/2022/02/dre-halftimehsow/dr-dre-snoop-dogg-super-bowl-halftime-show-01.jpg",
+            "link": "https://www.youtube.com/embed/_CL6n0FJZpk",
+            "description": "Calvin Cordozar Broadus Jr., conocido artísticamente como Snoop Dogg, anteriormente como Snoop Doggy Dogg y en raras ocasiones como Snoop Lion, es un rapero, empresario, productor y actor estadounidenses es uno de los artistas de hip-hop con más éxito en el Gangsta rap.",
+            "fav": false
+        },
+        {
+            "id": 10,
+            "title": "David Guetta",
+            "category": "EDM",
+            "photo": "https://surfyvida.com.ar/wp-content/uploads/2023/11/7145fa77c73fe3421de13d4c0f1498a2.jpg",
+            "link": "https://www.youtube.com/embed/5dbEhBKGOtY",
+            "description":"Nacido en París el 7 de noviembre de 1967 de un padre marroquí de origen judío y una madre belga, el principal embajador de la música electrónica en el planeta, autor de This One's For You, Love Is Gone y When love takes over, fue antes de todo un pionero en la introducción de la música electrónica en su país.",
+            "fav": true
+        },
+        {
+            "id": 11,
+            "title": "Martin Garrix",
+            "category": "EDM",
+            "photo": "https://miro.medium.com/v2/resize:fit:1400/1*tNHxQPKlXj5qMBz1KdCAHw.png",
+            "link": "https://www.youtube.com/embed/gCYcHz2k5x0",
+            "description":"Martijn Garritsen, mejor conocido por su apodo artístico Martin Garrix, es un DJ y productor holandés. Actualmente ocupa el puesto número #2 en la encuesta realizada por la revista Dj Mag para elegir a los mejores Dj's del mundo y ya ha sido coronado 3 veces consecutivas.",
+            "fav": true
+        },
+        {
+            "id": 12,
+            "title": "Tiësto",
+            "category": "EDM",
+            "photo": "https://www.lasrosas.com.ar/portal/wp-content/uploads/Tiesto.jpg",
+            "link": "https://www.youtube.com/embed/nCg3ufihKyU",
+            "description":"Tijs Michiel Verwest, conocido artísticamente como Tiësto, es un DJ, remezclador y productor discográfico neerlandés; también dueño y fundador del sello Musical Freedom. Fue votado como el «mejor DJ de todos los tiempos» por la revista Mix en una encuesta entre los aficionados en 2010-11.",
+            "fav": false
+        }
+    ]
+}
